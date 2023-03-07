@@ -1,1 +1,2 @@
-My Second readme file for ALX
+My Second readme file for ALX School
+Second Part
